@@ -10,6 +10,6 @@ plugins:
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-slate
-title: ORDBOK Contribution License Agreement
+title: ORDBOK

@@ -1,5 +1,5 @@
-Licenses
---------
+Documents
+---------
 
 - [MIT License.pdf](MIT%20License.pdf)
 
