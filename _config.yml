@@ -1,1 +1,15 @@
+description: LICENSE Download
+github:
+  is_project_page: true
+  owner_name: "ORDBOK contributers"
+  owner_url: "https://github.com/ordbok"
+  repository_name: "ORDBOK"
+  repository_url: "https://github.com/ordbok"
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+show_downloads: true
 theme: jekyll-theme-slate
+title: ORDBOK Contribution License Agreement
